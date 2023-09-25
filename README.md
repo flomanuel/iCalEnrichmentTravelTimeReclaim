@@ -1,4 +1,4 @@
 # iCalEnrichmentTravelTimeReclaim
-Tiny PHP-Script for adding "#needs_travel"-Reclaim-Command to ical-Events.
+[![License](https://img.shields.io/badge/License-MIT-blue)](./license)
 
-License: [MIT License](./license)
+Tiny PHP-Script for adding "#needs_travel"-Reclaim-Command to ical-Events.
